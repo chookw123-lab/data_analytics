@@ -1,0 +1,201 @@
+﻿ID,Location,Staff_Name,TV,Radio,Newspaper,Sales
+1,AMK,CSK,230.1,37.8,69.2,22.1
+2,AMK,CSK,44.5,39.3,45.1,10.4
+3,AMK,CSK,17.2,45.9,69.3,9.3
+4,AMK,CSK,151.5,41.3,58.5,18.5
+5,AMK,CSK,180.8,10.8,58.4,12.9
+6,AMK,CSK,8.7,48.9,75,7.2
+7,AMK,CSK,57.5,32.8,23.5,11.8
+8,AMK,CSK,120.2,19.6,11.6,13.2
+9,AMK,CSK,8.6,2.1,1,4.8
+10,AMK,CSK,199.8,2.6,21.2,10.6
+11,AMK,CSK,66.1,5.8,24.2,8.6
+12,AMK,CSK,214.7,24,4,17.4
+13,CCK,MOHD,23.8,35.1,65.9,9.2
+14,CCK,MOHD,97.5,7.6,7.2,9.7
+15,CCK,MOHD,204.1,32.9,46,19
+16,CCK,MOHD,195.4,47.7,52.9,22.4
+17,CCK,MOHD,67.8,36.6,114,12.5
+18,CCK,MOHD,281.4,39.6,55.8,24.4
+19,CCK,MOHD,69.2,20.5,18.3,11.3
+20,CCK,MOHD,147.3,23.9,19.1,14.6
+21,CCK,MOHD,218.4,27.7,53.4,18
+22,Bishan,Shirley,237.4,5.1,23.5,12.5
+23,Bishan,Shirley,13.2,15.9,49.6,5.6
+24,Bishan,Shirley,228.3,16.9,26.2,15.5
+25,Bishan,Shirley,62.3,12.6,18.3,9.7
+26,Bishan,Shirley,262.9,3.5,19.5,12
+27,Bishan,Shirley,142.9,29.3,12.6,15
+28,Bishan,Shirley,240.1,16.7,22.9,15.9
+29,Bishan,Shirley,248.8,27.1,22.9,18.9
+30,Bishan,Shirley,70.6,16,40.8,10.5
+31,Bishan,Shirley,292.9,28.3,43.2,21.4
+32,Bishan,Shirley,112.9,17.4,38.6,11.9
+33,Bishan,Shirley,97.2,1.5,30,9.6
+34,Bishan,Shirley,265.6,20,0.3,17.4
+35,Bishan,Shirley,95.7,1.4,7.4,9.5
+36,Bishan,Shirley,290.7,4.1,8.5,12.8
+37,Bishan,Shirley,266.9,43.8,5,25.4
+38,Bishan,Shirley,74.7,49.4,45.7,14.7
+39,Orchard,TanKS,43.1,26.7,35.1,10.1
+40,Orchard,TanKS,228,37.7,32,21.5
+41,Orchard,TanKS,202.5,22.3,31.6,16.6
+42,Orchard,TanKS,177,33.4,38.7,17.1
+43,Orchard,TanKS,293.6,27.7,1.8,20.7
+44,Orchard,TanKS,206.9,8.4,26.4,12.9
+45,Orchard,TanKS,25.1,25.7,43.3,8.5
+46,Orchard,TanKS,175.1,22.5,31.5,14.9
+47,Orchard,TanKS,89.7,9.9,35.7,10.6
+48,Orchard,TanKS,239.9,41.5,18.5,23.2
+49,Orchard,TanKS,227.2,15.8,49.9,14.8
+50,Orchard,TanKS,66.9,11.7,36.8,9.7
+51,Orchard,TanKS,199.8,3.1,34.6,11.4
+52,Orchard,TanKS,100.4,9.6,3.6,10.7
+53,Tampines,Vepasan,216.4,41.7,39.6,22.6
+54,Tampines,Vepasan,182.6,46.2,58.7,21.2
+55,Tampines,Vepasan,262.7,28.8,15.9,20.2
+56,Tampines,Vepasan,198.9,49.4,60,23.7
+57,Tampines,Vepasan,7.3,28.1,41.4,5.5
+58,Tampines,Vepasan,136.2,19.2,16.6,13.2
+59,Tampines,Vepasan,210.8,49.6,37.7,23.8
+60,Tampines,Vepasan,210.7,29.5,9.3,18.4
+61,Tampines,Vepasan,53.5,2,21.4,8.1
+62,Tampines,Vepasan,261.3,42.7,54.7,24.2
+63,Tampines,Vepasan,239.3,15.5,27.3,15.7
+64,Tampines,Vepasan,102.7,29.6,8.4,14
+65,Tampines,Vepasan,131.1,42.8,28.9,18
+66,Tampines,Vepasan,69,9.3,0.9,9.3
+67,Tampines,Vepasan,31.5,24.6,2.2,9.5
+68,Tampines,Vepasan,139.3,14.5,10.2,13.4
+69,Tampines,Vepasan,237.4,27.5,11,18.9
+70,Tampines,Vepasan,216.8,43.9,27.2,22.3
+71,Tampines,Vepasan,199.1,30.6,38.7,18.3
+72,Tampines,Vepasan,109.8,14.3,31.7,12.4
+73,Tampines,Vepasan,26.8,33,19.3,8.8
+74,Tampines,Vepasan,129.4,5.7,31.3,11
+75,Tampines,Vepasan,213.4,24.6,13.1,17
+76,Tampines,Vepasan,16.9,43.7,89.4,8.7
+77,Tampines,Vepasan,27.5,1.6,20.7,6.9
+78,Tampines,Vepasan,120.5,28.5,14.2,14.2
+79,Tampines,Vepasan,5.4,29.9,9.4,5.3
+80,Tampines,Vepasan,116,7.7,23.1,11
+81,Tampines,Vepasan,76.4,26.7,22.3,11.8
+82,Yishun,KangHH,239.8,4.1,36.9,12.3
+83,Yishun,KangHH,75.3,20.3,32.5,11.3
+84,Yishun,KangHH,68.4,44.5,35.6,13.6
+85,Yishun,KangHH,213.5,43,33.8,21.7
+86,Yishun,KangHH,193.2,18.4,65.7,15.2
+87,Yishun,KangHH,76.3,27.5,16,12
+88,Yishun,KangHH,110.7,40.6,63.2,16
+89,Yishun,KangHH,88.3,25.5,73.4,12.9
+90,Yishun,KangHH,109.8,47.8,51.4,16.7
+91,Yishun,KangHH,134.3,4.9,9.3,11.2
+92,Yishun,KangHH,28.6,1.5,33,7.3
+93,Yishun,KangHH,217.7,33.5,59,19.4
+94,Yishun,KangHH,250.9,36.5,72.3,22.2
+95,Yishun,KangHH,107.4,14,10.9,11.5
+96,Yishun,KangHH,163.3,31.6,52.9,16.9
+97,Yishun,KangHH,197.6,3.5,5.9,11.7
+98,Yishun,KangHH,184.9,21,22,15.5
+99,Sembawang,Joseph,289.7,42.3,51.2,25.4
+100,Sembawang,Joseph,135.2,41.7,45.9,17.2
+101,Sembawang,Joseph,222.4,4.3,49.8,11.7
+102,Sembawang,Joseph,296.4,36.3,100.9,23.8
+103,Sembawang,Joseph,280.2,10.1,21.4,14.8
+104,Sembawang,Joseph,187.9,17.2,17.9,14.7
+105,Sembawang,Joseph,238.2,34.3,5.3,20.7
+106,Sembawang,Joseph,137.9,46.4,59,19.2
+107,Sembawang,Joseph,25,11,29.7,7.2
+108,Sembawang,Joseph,90.4,0.3,23.2,8.7
+109,Sembawang,Joseph,13.1,0.4,25.6,5.3
+110,Sembawang,Joseph,255.4,26.9,5.5,19.8
+111,Sembawang,Joseph,225.8,8.2,56.5,13.4
+112,Sembawang,Joseph,241.7,38,23.2,21.8
+113,Sembawang,Joseph,175.7,15.4,2.4,14.1
+114,Sembawang,Joseph,209.6,20.6,10.7,15.9
+115,Sembawang,Joseph,78.2,46.8,34.5,14.6
+116,Sembawang,Joseph,75.1,35,52.7,12.6
+117,Sembawang,Joseph,139.2,14.3,25.6,12.2
+118,Sembawang,Joseph,76.4,0.8,14.8,9.4
+119,Sembawang,Joseph,125.7,36.9,79.2,15.9
+120,Sembawang,Joseph,19.4,16,22.3,6.6
+121,Sembawang,Joseph,141.3,26.8,46.2,15.5
+122,Sembawang,Joseph,18.8,21.7,50.4,7
+123,Sembawang,Joseph,224,2.4,15.6,11.6
+124,Sembawang,Joseph,123.1,34.6,12.4,15.2
+125,Sembawang,Joseph,229.5,32.3,74.2,19.7
+126,Sembawang,Joseph,87.2,11.8,25.9,10.6
+127,Sembawang,Joseph,7.8,38.9,50.6,6.6
+128,Sembawang,Joseph,80.2,0,9.2,8.8
+129,Sembawang,Joseph,220.3,49,3.2,24.7
+130,Sembawang,Joseph,59.6,12,43.1,9.7
+131,Sembawang,Joseph,0.7,39.6,8.7,1.6
+132,Sembawang,Joseph,265.2,2.9,43,12.7
+133,Sembawang,Joseph,8.4,27.2,2.1,5.7
+134,Sembawang,Joseph,219.8,33.5,45.1,19.6
+135,Sembawang,Joseph,36.9,38.6,65.6,10.8
+136,Sembawang,Joseph,48.3,47,8.5,11.6
+137,Sembawang,Joseph,25.6,39,9.3,9.5
+138,Sembawang,Joseph,273.7,28.9,59.7,20.8
+139,Sembawang,Joseph,43,25.9,20.5,9.6
+140,Sembawang,Joseph,184.9,43.9,1.7,20.7
+141,Sembawang,Joseph,73.4,17,12.9,10.9
+142,Sembawang,Joseph,193.7,35.4,75.6,19.2
+143,Sembawang,Joseph,220.5,33.2,37.9,20.1
+144,Sembawang,Joseph,104.6,5.7,34.4,10.4
+145,Sembawang,Joseph,96.2,14.8,38.9,11.4
+146,Woodlands,MosesL,140.3,1.9,9,10.3
+147,Woodlands,MosesL,240.1,7.3,8.7,13.2
+148,Woodlands,MosesL,243.2,49,44.3,25.4
+149,Woodlands,MosesL,38,40.3,11.9,10.9
+150,Woodlands,MosesL,44.7,25.8,20.6,10.1
+151,Woodlands,MosesL,280.7,13.9,37,16.1
+152,Woodlands,MosesL,121,8.4,48.7,11.6
+153,Woodlands,MosesL,197.6,23.3,14.2,16.6
+154,Woodlands,MosesL,171.3,39.7,37.7,19
+155,Woodlands,MosesL,187.8,21.1,9.5,15.6
+156,Woodlands,MosesL,4.1,11.6,5.7,3.2
+157,Woodlands,MosesL,93.9,43.5,50.5,15.3
+158,Woodlands,MosesL,149.8,1.3,24.3,10.1
+159,Woodlands,MosesL,11.7,36.9,45.2,7.3
+160,Woodlands,MosesL,131.7,18.4,34.6,12.9
+161,Woodlands,MosesL,172.5,18.1,30.7,14.4
+162,Woodlands,MosesL,85.7,35.8,49.3,13.3
+163,Woodlands,MosesL,188.4,18.1,25.6,14.9
+164,Woodlands,MosesL,163.5,36.8,7.4,18
+165,Woodlands,MosesL,117.2,14.7,5.4,11.9
+166,Woodlands,MosesL,234.5,3.4,84.8,11.9
+167,Woodlands,MosesL,17.9,37.6,21.6,8
+168,Jurong East,Sheik,206.8,5.2,19.4,12.2
+169,Jurong East,Sheik,215.4,23.6,57.6,17.1
+170,Jurong East,Sheik,284.3,10.6,6.4,15
+171,Jurong East,Sheik,50,11.6,18.4,8.4
+172,Jurong East,Sheik,164.5,20.9,47.4,14.5
+173,Jurong East,Sheik,19.6,20.1,17,7.6
+174,Jurong East,Sheik,168.4,7.1,12.8,11.7
+175,Jurong East,Sheik,222.4,3.4,13.1,11.5
+176,Jurong East,Sheik,276.9,48.9,41.8,27
+177,Jurong East,Sheik,248.4,30.2,20.3,20.2
+178,Jurong East,Sheik,170.2,7.8,35.2,11.7
+179,Jurong East,Sheik,276.7,2.3,23.7,11.8
+180,Jurong East,Sheik,165.6,10,17.6,12.6
+181,Jurong East,Sheik,156.6,2.6,8.3,10.5
+182,Jurong East,Sheik,218.5,5.4,27.4,12.2
+183,Jurong East,Sheik,56.2,5.7,29.7,8.7
+184,Jurong East,Sheik,287.6,43,71.8,26.2
+185,Jurong East,Sheik,253.8,21.3,30,17.6
+186,Jurong East,Sheik,205,45.1,19.6,22.6
+187,Jurong East,Sheik,139.5,2.1,26.6,10.3
+188,Jurong East,Sheik,191.1,28.7,18.2,17.3
+189,Jurong East,Sheik,286,13.9,3.7,15.9
+190,Jurong East,Sheik,18.7,12.1,23.4,6.7
+191,Jurong East,Sheik,39.5,41.1,5.8,10.8
+192,Jurong East,Sheik,75.5,10.8,6,9.9
+193,Jurong East,Sheik,17.2,4.1,31.6,5.9
+194,Jurong East,Sheik,166.8,42,3.6,19.6
+195,Jurong East,Sheik,149.7,35.6,6,17.3
+196,Jurong East,Sheik,38.2,3.7,13.8,7.6
+197,Jurong East,Sheik,94.2,4.9,8.1,9.7
+198,Jurong East,Sheik,177,9.3,6.4,12.8
+199,Jurong East,Sheik,283.6,42,66.2,25.5
+200,Jurong East,Sheik,232.1,8.6,8.7,13.4
